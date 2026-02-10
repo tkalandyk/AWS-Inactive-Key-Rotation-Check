@@ -1,3 +1,6 @@
+
+<img width="1024" height="1536" alt="ChatGPT Image Feb 9, 2026, 10_29_53 PM" src="https://github.com/user-attachments/assets/ad50d0ed-c7a1-428a-92d6-8e38a90df253" />
+
 # AWS Inactive Key Rotation Check
 
 
