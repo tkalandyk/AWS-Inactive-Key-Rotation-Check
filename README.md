@@ -14,6 +14,12 @@ This demonstrates how compliance can move from manual checklists to **automated,
 
 ---
 
+## 🎥 Clich the Picture Below to Play Demo ⬇️
+
+[<img width="1435" height="900" alt="image" src="https://github.com/user-attachments/assets/128e9342-5e28-4737-afbb-05a1ac4d88a8" />](https://youtu.be/FgjuDvTEcxI?si=rLLyIecQQ4MfYIZv)
+
+
+---
 ## The Problem
 
 Inactive or stale AWS access keys are one of the most common cloud security risks.  
