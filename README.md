@@ -149,15 +149,18 @@ Can be adapted for:
 
 Generated Evidence Files:
 
+<img width="1196" height="576" alt="image" src="https://github.com/user-attachments/assets/8182c5d2-8e91-4879-a4e6-a9d9dac7b1a0" />
+---
+
 inactive_key_analysis_report.json
 
 <img width="606" height="796" alt="image" src="https://github.com/user-attachments/assets/ed97c4f9-5e0e-4fca-b0d0-24a4a812060f" />
 
-
+---
 inactive_key_summary.csv
 
 <img width="744" height="413" alt="image" src="https://github.com/user-attachments/assets/aa0a4df0-18e0-4131-b3a0-8aa0ebe1e0ea" />
-
+---
 
 Assessment Output Includes:
 
