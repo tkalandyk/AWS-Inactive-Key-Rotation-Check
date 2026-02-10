@@ -136,7 +136,7 @@ Currently runs locally for testing against a real AWS test environment.
 Can be adapted for:
 
 - AWS Lambda scheduled scans  
-- CI/CD security gates  
+- CI: Continuous Integration CD: Continuous Delivery / Continuous Deployment  
 - Security monitoring pipelines  
 - ChatOps / alerting integrations  
 
