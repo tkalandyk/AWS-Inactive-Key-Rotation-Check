@@ -181,16 +181,7 @@ This demonstrates the difference between:
 
 **Compliance Theater → Security Engineering**
 
----
-
-## Portfolio & Interview Value
-
-This project demonstrates ability to:
-
-- Translate compliance requirements into working automation  
-- Build evidence-producing security controls  
-- Reduce manual GRC workload using engineering  
-- Align security automation with real business risk  
+ 
 
 ---
 
@@ -218,4 +209,4 @@ This tool proves the ability to:
 - Produce audit-grade evidence  
 - Improve real security posture — not just documentation  
 
-Scales from small environments to enterprise cloud estates.
+Scales from small environments to enterprise cloud environments.
