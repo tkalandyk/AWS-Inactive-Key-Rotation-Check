@@ -153,7 +153,8 @@ inactive_key_analysis_report.json
 
 inactive_key_summary.csv
 
-<img width="606" height="796" alt="image" src="https://github.com/user-attachments/assets/349e4340-9203-492a-916a-537775e0a636" />
+<img width="744" height="413" alt="image" src="https://github.com/user-attachments/assets/aa0a4df0-18e0-4131-b3a0-8aa0ebe1e0ea" />
+
 
 Assessment Output Includes:
 
